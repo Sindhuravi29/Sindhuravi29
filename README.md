@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Sindhuja</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 
